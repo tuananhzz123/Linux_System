@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Documents/source/Linux_driver/character_device/hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/tuananh/Documents/source/Linux_driver/character_device/hello/Module.symvers -T /home/tuananh/Documents/source/Linux_driver/character_device/hello/modules.order -i Module.symvers -e 

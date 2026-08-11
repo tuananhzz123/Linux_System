@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Documents/source/Linux_driver/character_device/led/modules.order := {   echo /home/tuananh/Documents/source/Linux_driver/character_device/led/hello.o; :; } > /home/tuananh/Documents/source/Linux_driver/character_device/led/modules.order

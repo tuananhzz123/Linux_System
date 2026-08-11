@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/led.mod := printf '%s\n'   led.o | awk '!x[$$0]++ { print("/home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/"$$0) }' > /home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/led.mod
