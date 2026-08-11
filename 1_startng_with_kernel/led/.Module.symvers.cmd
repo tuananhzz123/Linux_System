@@ -1,0 +1,1 @@
+savedcmd_/home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/Module.symvers :=  scripts/mod/modpost -M        -o /home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/Module.symvers -T /home/tuananh/Documents/source/Linux_driver/startng_with_kernel/led/modules.order -i Module.symvers -e 
