@@ -1,0 +1,1 @@
+savedcmd_/home/tuananh/Documents/source/Linux_driver/3_intergerbase/intergerbase_led/Module.symvers :=  scripts/mod/modpost -M        -o /home/tuananh/Documents/source/Linux_driver/3_intergerbase/intergerbase_led/Module.symvers -T /home/tuananh/Documents/source/Linux_driver/3_intergerbase/intergerbase_led/modules.order -i Module.symvers -e 

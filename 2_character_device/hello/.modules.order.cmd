@@ -1,0 +1,1 @@
+savedcmd_/home/tuananh/Documents/source/Linux_driver/character_device/hello/modules.order := {   echo /home/tuananh/Documents/source/Linux_driver/character_device/hello/hello.o; :; } > /home/tuananh/Documents/source/Linux_driver/character_device/hello/modules.order

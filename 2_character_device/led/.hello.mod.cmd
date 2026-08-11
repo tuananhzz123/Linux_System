@@ -1,0 +1,1 @@
+savedcmd_/home/tuananh/Documents/source/Linux_driver/character_device/led/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/tuananh/Documents/source/Linux_driver/character_device/led/"$$0) }' > /home/tuananh/Documents/source/Linux_driver/character_device/led/hello.mod
