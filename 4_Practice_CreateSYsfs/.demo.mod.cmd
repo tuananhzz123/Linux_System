@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/demo.mod := printf '%s\n'   demo.o | awk '!x[$$0]++ { print("/home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/"$$0) }' > /home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/demo.mod
