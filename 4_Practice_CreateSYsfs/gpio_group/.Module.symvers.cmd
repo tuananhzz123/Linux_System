@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/Module.symvers :=  scripts/mod/modpost -M        -o /home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/Module.symvers -T /home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/modules.order -i Module.symvers -e 

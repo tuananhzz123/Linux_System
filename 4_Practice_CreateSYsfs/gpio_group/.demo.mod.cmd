@@ -1,1 +1,0 @@
-savedcmd_/home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/demo.mod := printf '%s\n'   demo.o | awk '!x[$$0]++ { print("/home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/"$$0) }' > /home/tuananh/Study/Git/EMBEDDED_LINUX/Linux_System/4_Practice_CreateSYsfs/gpio_group/demo.mod
