@@ -1,0 +1,1 @@
+savedcmd_/home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/Module.symvers :=  scripts/mod/modpost -M        -o /home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/Module.symvers -T /home/tuananh/Documents/source/Linux_driver/4_Practice_CreateSYsfs/modules.order -i Module.symvers -e 
